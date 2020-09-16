@@ -1,56 +1,56 @@
-# eb4_codetilldawn_projectionoflines
-Round 0
-Discipline	MECHANICAL
-Lab	ENGINEERING GRAPHICS &DESIGN (KCE101)
-Experiment	1. TO DRAW THE PROJECTION OF LINES
+## Introduction (Round 0)
 
-About the Lab (objective):
-To draw the projection of lines with all possible projections.
-About the Experiment:
-The possible projections of straight lines with respect to V.P. and H.P. in the first quadrant are as follows:
-1. Perpendicular to one plane and parallel to the other.
-2. Parallel to both the planes.
-3. Parallel to one plane and inclined to the other.
-4. Inclined to both the planes.
-Target Audience:
-  B.TECH. 1st year student.
-Course Alignment: 
-   B.TECH.
-Universities Mapped:
-   Dr. A.P.J. ABDUL KALAM TECHNICAL UNIVERSITY, LUCKNOW
+Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
+<br>
 
-Name of Developer	NIRMAL GARG (ASSISTANT PROFESSOR)
- Institute	AJAY KUMAR GARG ENGINERING COLLEGE , GHAZIABAD
-Email id	gargnirmal@akgec.ac.in
-Department	MECHANICAL
+<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+:--|:--|
+<b> Lab | <b> Type name of the lab
+<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
 
-SrNo	Name	Faculty or Student	Department	Institute	Email id
-1	ANURAG MISHRA	Student	MECHANICAL	AJAY KUMAR GARG ENGINERING COLLEGE , GHAZIABAD	Anurag1840007D@akgec.ac.in
-2	RISHABH SINGH	Student	INFORMATION TECHNOLOGY	AJAY KUMAR GARG ENGINERING COLLEGE , GHAZIABAD	rishabh131199@gmail.com
-3	RISHABH SHARMA	Student	INFORMATION TECHNOLOGY	AJAY KUMAR GARG ENGINERING COLLEGE , GHAZIABAD	rishabhsharma2304@gmail.com
-4	TARUN RAGHAV	Student	INFORMATION TECHNOLOGY	AJAY KUMAR GARG ENGINERING COLLEGE , GHAZIABAD	iamtarunraghav@gmail.com
+<h5> About the Lab (Objective) : </h5>
+
+Type here: berif description of the lab
+
+<h5> About the Experiment : </h5>
+
+Type here: berif description of this experiment
+
+<h5> Target Audience : </h5>
+
+Type here: the target audience
+
+<h5> Course Alignment : </h5>
+
+Type here: courses aligned
+
+<h5> Universities Mapped : </h5>
+
+Type here: universities mapped
+
+<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+:--|:--|
+<b> Institute | <b> My Institute name
+<b> Email id|     <b> abc@example.com
+<b> Department | Name of the department in which you work
+
+#### Mentor Details
+
+<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+:--|:--|
+<b> Institute | <b> Institute name
+<b> Email id|     <b> abc@example.com
+<b> Department | Name of the department
+
+#### Contributors List
+
+SrNo | Name | Faculty or Student | Department| Institute | Email id
+:--|:--|:--|:--|:--|:--|
+1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
+2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
 
 
-
-
-
-
-
-
-
-
-Mentor Details:
-Mentored by	Dr. ARVIND KUMAR PANDEY (ASSISTANT PROFESSOR)
-Institute	MIET , MEERUT
-Email id	arvindmknk@gmail.com
-Department	ELECTRONICS & COMMUNICATION
-
-
-
-
-
-
-
-
-
-Contributors List: Dr. Anand Pandey
+<br>
+for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
