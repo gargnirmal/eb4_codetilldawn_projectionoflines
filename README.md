@@ -44,11 +44,11 @@ Dr. APJ Abdul Kalam Technical University
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
+1 | Rishabh Sharma| Student | IT | Ajay Kumar GArg Engineering College, Ghaziabad | rishabhsharma2304@gmail.com
+2 | Rishabh Singh | Student | IT | Ajay Kumar GArg Engineering College, Ghaziabad  |rishabh131199@gmail.com
+3 | Tarun Raghav | Student | IT | Ajay Kumar GArg Engineering College, Ghaziabad  |iamtarunraghav@gmail.com
+4 | Anurag Mishra| Student | Mechanical | Ajay Kumar GArg Engineering College, Ghaziabad  |anurag1840007d@akgec.ac.in
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+
