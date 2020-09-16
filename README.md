@@ -1,46 +1,44 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Mechanical Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Engineering Graphics and Drawing
+<b> Experiment|     <b> 1. (1)Projection of lines
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+Get acquainted with the knowledge of various lines, geometrical constructions and construction of various kinds of scales, and Ellipse. Improve their imagination skills by gaining knowledge about points, lines and planes. Become proficient in drawing the projections of various solids. Gain knowledge about orthographic and isometric projections.
 
 <h5> About the Experiment : </h5>
-
-Type here: berif description of this experiment
+The all possible projections of straight lines wrt to vp and hp.
 
 <h5> Target Audience : </h5>
 
-Type here: the target audience
+Faculty and Student of first year
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+Btech
 
 <h5> Universities Mapped : </h5>
 
-Type here: universities mapped
+Dr. APJ Abdul Kalam Technical University
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> (Nirmal Garg) - - - - - -
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> Ajay kumar garg engineering College
+<b> Email id|     <b> gargnirmal@akgec.ac.in
+<b> Department | Mechanical Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> (Dr.Arvind Kumar Pandey) - - - - - -
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> 	MIET,Meerut
+<b> Email id|     <b> arvindmknk@gmail.com
+<b> Department |	Electronics and Communication Engineering Department
 
 #### Contributors List
 
